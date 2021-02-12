@@ -24,4 +24,6 @@ Especially in the realm of blockchain and cryptocurrency products, I have accumu
 
 ### Support or Contact
 
-Please contact me via Email: cryptohero20001008@outlook.com or Skype Name: live:.cid.b3512f668f7c6c22 and I’ll help you sort it out.
+Please contact me via follow addresses and I’ll help you sort it out.
+  Email: cryptohero20001008@outlook.com 
+  Skype Name: live:.cid.b3512f668f7c6c22 
