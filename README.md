@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Crypto Miner GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Miner1008/cryptominer.github.io/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+I am a [CryptoCurrency Developer].
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a senior [website and blockchain developer] with rich experience and deep knowledge.
 
-### Markdown
+### Details
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As a knowledgeable developer, I am always working with the latest frameworks and libraries and provide perfect results to clients under deep knowledge about IT science.
 
-```markdown
-Syntax highlighted code block
+Especially in the realm of blockchain and cryptocurrency products, I have accumulated many theoretical and practical experiences by conducting many projects.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Miner1008/cryptominer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Areas of Expertise
+✔️ Website Development
+* JavaScript (React | Vue.JS / NodeJS)
+* PHP(Laravel | CodeIgniter)
+* Python(Django | Flask)
+* Database(MySQL | MongoDB | MariaDB | SQLite)
+✔️ Blockchain
+* Ethereum Smart Contracts (Solidity, LLL, Truffle, Web3.js)
+* Bitcoin and other cryptocurrencies
+* Exchange API & Trading automation
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please contact me via Email: [cryptohero20001008@outlook.com] or Skype Name: [live:.cid.b3512f668f7c6c22] and I’ll help you sort it out.
