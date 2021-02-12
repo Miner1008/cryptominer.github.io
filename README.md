@@ -11,14 +11,14 @@ Especially in the realm of blockchain and cryptocurrency products, I have accumu
 
 ### Areas of Expertise
 ✔️ Website Development
-* JavaScript (React | Vue.JS | NodeJS)
-* PHP(Laravel | CodeIgniter)
-* Python(Django | Flask)
-* Database(MySQL | MongoDB | MariaDB | SQLite)
-
+* JavaScript (React.JS,  Vue.JS, Node.JS)
+* PHP(Laravel, CodeIgniter)
+* Python(Django, Flask)
+* Database(MySQL, MongoDB, MariaDB, SQLite)
 
 ✔️ Blockchain
-* Ethereum Smart Contracts (Solidity, LLL, Truffle, Web3.js)
+* Smart Contracts (Solidity, LLL, Truffle, Web3.js)
+* Decentralized Exchange
 * Bitcoin and other cryptocurrencies
 * Exchange API & Trading automation
 
